@@ -1,5 +1,7 @@
 # Frontend Mentor - Interactive comments section solution
 
+![Design preview for the Intro section with dropdown navigation coding challenge](./design/desktop-preview.jpg)
+
 ## Bem-vindo(a)! 👋
 
 Essa é a minha solução para o desafio [Frontend Mentor | Interactive comments section](https://www.frontendmentor.io/challenges/interactive-comments-section-iG1RugEG9). Foi escolhido esse desafio para praticar principalmente React e outras tecnologias em conjunto. Essa é a terceira vez que tenho contato com essas tecnologias, mas foi a primeira vez que eu foquei diretamente no React e suas funcionalidades, então tive algumas dificuldades e empasses que eu não teria se estivesse utilizando JavaScript puro, por exemplo. O projeto foi desenvolvido no CodeSandBox utilizando um template disponibilizado pelo próprio de Next.js. Admito que eu deva ter utilizado algumas gambiarras e exista outras formas de solucionar que sejam mais adequadas. Talvez até no futuro, quando tiver mais experiência, possa refazer de uma forma melhor. Por mais todo estresse e esforço, ainda assim foi um projeto bem interessante de se desenvolver utilizando essas tecnologias e sinto que aprendi bastante sobre cada uma delas, em específico o React. Todo esse conhecimento será útil nos próximos projetos que utilizarem alguma dessas tecnologias. Enfim, um desafio de fato desafiador, mas estimulante. Empolgada para o próximo projeto.
@@ -17,7 +19,7 @@ Os usuários devem ser capazes de:
 
 ### Acesso ao site
 
-Para usar o site produzido, pode acessar através desse link: [link para o site](https://cgw4jt-3000.csb.app)
+Para usar o site produzido, pode acessar através desse link: [link para o site](https://cgw4jt-3000.csb.app).
 
 ## Processos de desenvolvimento
 
@@ -38,7 +40,7 @@ Para usar o site produzido, pode acessar através desse link: [link para o site]
 
 ### Versão Desktop
 
-![](./design/versaoFinalDesktop.png)
+![](./design/final-version-desktol.png)
 
 ### Versão Mobile
-![](./design/versaoFinalMobile.png)
+![](./design/final-version-mobile.png)
