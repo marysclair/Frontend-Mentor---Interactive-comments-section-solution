@@ -40,7 +40,7 @@ Para usar o site produzido, pode acessar através desse link: [link para o site]
 
 ### Versão Desktop
 
-![](./design/final-version-desktol.png)
+![](./design/final-version-desktop.png)
 
 ### Versão Mobile
 ![](./design/final-version-mobile.png)
